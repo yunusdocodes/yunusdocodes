@@ -10,7 +10,7 @@
   <h3> Few words about Me</h3>
   <img align="right" width="300" height="300" src="https://github.com/Bharathi4real/Bharathi4real/blob/main/assets/animation_500_kxa883sd.gif" style="border-radius:50%"/>
   
-  <p style="text-align:center">I am a Computer Science student and Full-Stack developer with a focus on Backend development. I enjoy improving my skills in Go Lang.
+  <p style="text-align:center">I am a Computer Science student and Full-Stack developer with a focus on Web development.</br>I enjoy improving my skills in JavaScript.
 
 Languages spoken: <img width="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/in.svg"> Tamil / <img width="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> English
 
